@@ -64,7 +64,7 @@
 				<h3 align="center">Project 2</h3>
 				<div align="center" >  
 					<a href='https://codingphase.com' target="_blank">
-						<img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 2" height="100%" />
+						<img src="https://github.com/RenPen3/renpen3/blob/main/assets/project%20image%203.png?raw=true" alt="project 2" height="100%" />
 					</a>
 					<br>
 					<br>
