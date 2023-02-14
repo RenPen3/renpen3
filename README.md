@@ -98,7 +98,7 @@
 						</a>
                     </p>
                     <p><strong>HTML, CSS</strong></p>
-		    <p>Description goes here</p>
+		    <p>This is an MPLAY Landing Page</p>
                 </div>
             </td>
             <td width="50%">
