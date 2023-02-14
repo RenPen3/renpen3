@@ -42,7 +42,7 @@
 				<h3 align="center">Athleta Promotional Email</h3>
 				<div align="center">  
 					<a href='https://athleta-promo.netlify.app/' target="_blank">
-						<img src="https://github.com/RenPen3/renpen3/blob/main/assets/project%201.jpg?raw=true" alt="project 1" height="100%" />
+						<img src="https://github.com/RenPen3/renpen3/blob/main/assets/project%201.jpg?raw=true" alt="Athleta Promotional Email" height="100%" />
 					</a>
 					<br>
 					<br>
@@ -64,7 +64,7 @@
 				<h3 align="center">Curvee Brows Newsletter Email</h3>
 				<div align="center" >  
 					<a href='https://curveebrows-newsletter.netlify.app/' target="_blank">
-						<img src="https://github.com/RenPen3/renpen3/blob/main/assets/project%202.jpg?raw=true" alt="project 2" height="100%" />
+						<img src="https://github.com/RenPen3/renpen3/blob/main/assets/project%202.jpg?raw=true" alt="Curvee Brows Newsletter Email" height="100%" />
 					</a>
 					<br>
 					<br>
@@ -85,7 +85,7 @@
                 <h3 align="center">Mplay Landing Page</h3>
                 <div align="center" >  
                     <a href='https://mplay-landing-page.netlify.app/' target="_blank">
-                        <img src="https://github.com/RenPen3/renpen3/blob/main/assets/project3.jpg?raw=true" alt="project 3" height="100%" />
+                        <img src="https://github.com/RenPen3/renpen3/blob/main/assets/project3.jpg?raw=true" alt="Mplay Landing Page" height="100%" />
                     </a>
                     <br>
                     <br>
@@ -105,7 +105,7 @@
                 <h3 align="center">WordPress Website</h3>
                 <div align="center">  
                      <a href='https://rp629.wordpress.com/' target="_blank">
-                        <img src="https://github.com/RenPen3/renpen3/blob/main/assets/project4.jpg?raw=true" alt="project 4" height="100%" />
+                        <img src="https://github.com/RenPen3/renpen3/blob/main/assets/project4.jpg?raw=true" alt="RP&J Lawfirm Wordpress website" height="100%" />
                     </a>
                     <br>
                     <br>
