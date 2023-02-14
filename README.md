@@ -42,7 +42,7 @@
 				<h3 align="center">Athleta Promotional Email</h3>
 				<div align="center">  
 					<a href='https://athleta-promo.netlify.app/' target="_blank">
-						<img src="https://github.com/RenPen3/renpen3/blob/main/assets/project%201.jpg?raw=true" alt="Athleta Promotional Email" height="100%" />
+						<img src="https://github.com/RenPen3/renpen3/blob/main/assets/project1.jpg?raw=true" alt="Athleta Promotional Email" height="100%" />
 					</a>
 					<br>
 					<br>
