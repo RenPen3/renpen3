@@ -64,7 +64,7 @@
 				<h3 align="center">Curvee Brows Newsletter Email</h3>
 				<div align="center" >  
 					<a href='https://curveebrows-newsletter.netlify.app/' target="_blank">
-						<img src="https://github.com/RenPen3/renpen3/blob/main/assets/project%202.jpg?raw=true" alt="Curvee Brows Newsletter Email" height="100%" />
+						<img src="https://github.com/RenPen3/renpen3/blob/main/assets/project2.jpg?raw=true" alt="Curvee Brows Newsletter Email" height="100%" />
 					</a>
 					<br>
 					<br>
