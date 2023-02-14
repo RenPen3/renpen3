@@ -63,16 +63,16 @@
 			<td width="50%">
 				<h3 align="center">Project 2</h3>
 				<div align="center" >  
-					<a href='https://codingphase.com' target="_blank">
+					<a href='https://curveebrows-newsletter.netlify.app/' target="_blank">
 						<img src="https://github.com/RenPen3/renpen3/blob/main/assets/project%20image%203.png?raw=true" alt="project 2" height="100%" />
 					</a>
 					<br>
 					<br>
 					<p>
-						<a href="https://codingphase.com" target="_blank">
+						<a href="https://github.com/RenPen3/Curvee-Brows-Newsletter" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://codingphase.com" target="_blank">
+						<a href="https://curveebrows-newsletter.netlify.app/" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
 					</p>
