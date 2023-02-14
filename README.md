@@ -41,7 +41,7 @@
 			<td width="50%">
 				<h3 align="center">Project 1</h3>
 				<div align="center">  
-					<a href='https://github.com/RenPen3/Athleta-Promotional' target="_blank">
+					<a href='https://athleta-promo.netlify.app/l' target="_blank">
 						<img src="https://github.com/RenPen3/renpen3/blob/main/assets/project%20image%202.png?raw=true" alt="project 1" height="100%" />
 					</a>
 					<br>
