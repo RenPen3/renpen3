@@ -39,7 +39,7 @@
 	<table>
 		<tr>
 			<td width="50%">
-				<h3 align="center">Project 1</h3>
+				<h3 align="center">Athleta Promotional Email</h3>
 				<div align="center">  
 					<a href='https://athleta-promo.netlify.app/' target="_blank">
 						<img src="https://github.com/RenPen3/renpen3/blob/main/assets/project%201.jpg?raw=true" alt="project 1" height="100%" />
@@ -61,7 +61,7 @@
 				</div>
 			</td>
 			<td width="50%">
-				<h3 align="center">Project 2</h3>
+				<h3 align="center">Curvee Brows Newsletter Email</h3>
 				<div align="center" >  
 					<a href='https://curveebrows-newsletter.netlify.app/' target="_blank">
 						<img src="https://github.com/RenPen3/renpen3/blob/main/assets/project%202.jpg?raw=true" alt="project 2" height="100%" />
@@ -82,7 +82,7 @@
         </tr>
 	    <tr>
             <td width="50%">
-                <h3 align="center">Project 3</h3>
+                <h3 align="center">Mplay Landing Page</h3>
                 <div align="center" >  
                     <a href='https://mplay-landing-page.netlify.app/' target="_blank">
                         <img src="https://github.com/RenPen3/renpen3/blob/main/assets/project3.jpg?raw=true" alt="project 3" height="100%" />
@@ -102,7 +102,7 @@
                 </div>
             </td>
             <td width="50%">
-                <h3 align="center">Project 4</h3>
+                <h3 align="center">WordPress Website</h3>
                 <div align="center">  
                     <a href='https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0' target="_blank">
                         <img src="https://github.com/RenPen3/renpen3/blob/main/assets/project4.jpg?raw=true" alt="project 4" height="100%" />
