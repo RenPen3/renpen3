@@ -1,5 +1,5 @@
 <div id="" align="center">
-  <img src="https://github.com/RenPen3/renpen3/blob/main/assets/Banner%201.png?raw=true" width="100%"/>
+  <img src="https://github.com/RenPen3/renpen3/blob/main/assets/banner-3-jpg.jpg?raw=true" width="100%"/>
 </div>
 <h1 align="center">Hi 👋, I'm Rene D Perez</h1>
 <h3 align="center">A HTML Email Developer from Los Angeles, CA</h3>
