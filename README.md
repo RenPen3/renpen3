@@ -111,7 +111,7 @@
                     <br>
                     <p>
                         <a href="https://codingphase.com" target="_blank">
-							<img src="https://github.com/RenPen3/renpen3/blob/main/assets/project4.jpg?raw=true"/>
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
 						<a href="https://codingphase.com" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
