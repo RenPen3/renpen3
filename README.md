@@ -56,7 +56,7 @@
 					</p>
 					<p><strong>HTML, CSS, Javascript</strong></p>
           <p>
-						Description goes here
+						This is a Promotional Email
 					</p>
 				</div>
 			</td>
@@ -98,7 +98,7 @@
 						</a>
                     </p>
                     <p><strong>HTML, CSS</strong></p>
-		    <p>This is a Promotional Email</p>
+		    <p>Description goes here</p>
                 </div>
             </td>
             <td width="50%">
