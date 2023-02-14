@@ -104,15 +104,15 @@
             <td width="50%">
                 <h3 align="center">WordPress Website</h3>
                 <div align="center">  
-<!--                     <a href='https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0' target="_blank">
+                     <a href='https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0' target="_blank">
                         <img src="https://github.com/RenPen3/renpen3/blob/main/assets/project4.jpg?raw=true" alt="project 4" height="100%" />
-                    </a> -->
+                    </a>
                     <br>
                     <br>
                     <p>
-                        <a href="https://codingphase.com" target="_blank">
+<!--                         <a href="https://codingphase.com" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
+						</a>   -->
 						<a href="https://rp629.wordpress.com/" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
