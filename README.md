@@ -117,8 +117,8 @@
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
                     </p>
-                    <p><strong>HTML, CSS, Javascript</strong></p>
-		    <p>Description goes here</p>
+                    <p><strong>WordPress</strong></p>
+		    <p>This is a WordPress website</p>
                 </div>	
             </td>
         </tr>
