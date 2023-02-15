@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Hi!, I'm Rene D Perez &#128526</h1>
 <h3 align="center">A HTML Email Developer from Los Angeles, CA</h3>
-<h4 align="center">I'm an experienced email developer with a strong background in creating responsive HTML table emails from scratch. I'm skilled in various design tools such as Adobe Illustrator, Photoshop, and Adobe Xd, Sass as well as platforms like: Wordpress, Google Analytics, GitHub, Git and Mailchimp. In addition to my experience, I am also passionate about art, music, traveling, fitness, learning diverse cultures and exploring new places. </h4>
+<h4 align="center">I'm an experienced email developer with a strong background in creating responsive HTML table emails from scratch. I'm skilled in various design tools such as Adobe Illustrator, Photoshop, and Adobe Xd, Sass as well as platforms like: Wordpress, Google Analytics, GitHub, Git and Mailchimp. In addition to my experience, I am also passionate about art, music, travel, fitness, learning diverse cultures and exploring new places. </h4>
 
 <hr>
 
