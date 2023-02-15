@@ -1,7 +1,7 @@
 <div id="" align="center">
   <img src="https://github.com/RenPen3/renpen3/blob/main/assets/Banner-4.jpg?raw=true" width="100%"/>
 </div>
-<h1 align="center">Hi &#128526, I'm Rene D Perez</h1>
+<h1 align="center">Hi! &#128526, I'm Rene D Perez</h1>
 <h3 align="center">A HTML Email Developer from Los Angeles, CA</h3>
 <h4 align="center">Hi my name is Rene D Perez an HTML Email Developer based out of Los Angeles. I'm an experienced email developer with a strong background in creating responsive HTML table emails from scratch. I'm skilled in various design tools such as Adobe Illustrator, Photoshop, and Adobe Xd, Sass as well as platforms like: Wordpress, Google Analytics, GitHub, Git and Mailchimp. In addition to my experience, I am also passionate about art, music, traveling, fitness, learning diverse cultures and exploring new places. </h4>
 
