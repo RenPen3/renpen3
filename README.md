@@ -103,7 +103,7 @@
             </td>
             <td width="50%">
                 <h3 align="center">WordPress Website</h3>
-                <div align="center" style="border-radius: 10px;>  
+                <div align="center">  
                      <a href='https://rp629.wordpress.com/' target="_blank">
                         <img src="https://github.com/RenPen3/renpen3/blob/main/assets/project4.jpg?raw=true" alt="RP&J Lawfirm Wordpress website" height="100%" />
                     </a>
@@ -113,7 +113,7 @@
 <!--                         <a href="https://rp629.wordpress.com/" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>   -->
-						<a href="https://rp629.wordpress.com/" target="_blank">
+						<a href="https://rp629.wordpress.com/" target="_blank" style="border-radius: 10px;>
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
                     </p>
