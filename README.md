@@ -103,7 +103,7 @@
             </td>
             <td width="50%">
                 <h3 align="center">WordPress Website</h3>
-                <div align="center">  
+                <div align="center" style="border-radius: 10px;>  
                      <a href='https://rp629.wordpress.com/' target="_blank">
                         <img src="https://github.com/RenPen3/renpen3/blob/main/assets/project4.jpg?raw=true" alt="RP&J Lawfirm Wordpress website" height="100%" />
                     </a>
