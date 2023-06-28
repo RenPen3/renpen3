@@ -2,8 +2,8 @@
   <img src="https://github.com/RenPen3/renpen3/blob/main/assets/Banner-7.jpg?raw=true" width="100%"/>
 </div>
 <h1 align="center">Hi!, I'm Rene D Perez &#128526</h1>
-<h3 align="center">A HTML Email Developer / Web Developer from Los Angeles, CA</h3>
-<h4 align="center">I'm an experienced email developer / web developer with a strong background in creating responsive HTML table emails and websites from scratch. I'm skilled in various design tools such as Adobe Illustrator, Photoshop, and Figma as well as platforms like: Wordpress, Bootstrap, Sass, Google Analytics, GitHub, Git and ConvertKit. In addition to my experience, I am also passionate about art, music, travel, fitness, learning diverse cultures and exploring new places. </h4>
+<h3 align="center">An Email Developer/ Web Developer from Los Angeles, CA</h3>
+<h4 align="center">I'm an experienced email developer/ web developer with a strong background in creating responsive HTML table emails and websites from scratch. I'm skilled in various design tools such as Adobe Illustrator, and Figma as well as platforms like WordPress, Bootstrap, Sass, Google Analytics, GitHub, Git, and ConvertKit. In addition to my experience, I am also passionate about art, music, travel, fitness, learning diverse cultures, and exploring new places. </h4>
 
 <hr>
 
