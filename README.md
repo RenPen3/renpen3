@@ -10,7 +10,7 @@
 
 <!-- TECHS -->
 
-<h2 align="center">Skills</h2>
+<h2 align="left">Skills</h2>
 
 <div align="center">
                 <br>
@@ -34,7 +34,7 @@
 
 <!-- PROJECTS -->
 
-<h2 align="center">My Awesome Projects</h2>
+<h2 align="left">My Awesome Projects</h2>
 <div align="center">
 	<table>
 		<tr>
