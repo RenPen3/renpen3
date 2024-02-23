@@ -14,7 +14,7 @@
 
 <div align="center">
                 <br>
-                    <div align="center" >  
+                    <div align="left" >  
                       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="75" height="75"/> 
 			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="75" height="75"/>
                       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" alt="css3" width="75" height="75"/>
@@ -35,7 +35,7 @@
 <!-- PROJECTS -->
 
 <h2 align="left">My Awesome Projects</h2>
-<div align="center">
+<div align="left">
 	<table>
 		<tr>
 			<td width="50%">
@@ -131,8 +131,8 @@
 
 <!-- SOCIALS -->
 
-<h2 align="center">Contact Me</h2>
-<p align="center">
+<h2 align="left">Contact Me</h2>
+<p align="left">
 	&nbsp&nbsp&nbsp
 	<a href="https://twitter.com/ReneDPerez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codingphase" height="30" width="40" /></a>&nbsp&nbsp&nbsp
 <a href="https://www.linkedin.com/in/renedperez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codingphase" height="30" width="40" /></a>&nbsp&nbsp&nbsp
