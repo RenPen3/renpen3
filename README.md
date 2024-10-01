@@ -42,7 +42,7 @@
 				<h3 align="center">Osculant Origins Newsletter Email</h3>
 				<div align="center">  
 					<a href='https://osculant-origins.netlify.app/' target="_blank">
-						<img src="https://github.com/RenPen3/renpen3/blob/main/assets/project1.jpg?raw=true" alt="Athleta Promotional Email" height="100%" />
+						<img src="https://github.com/RenPen3/renpen3/blob/main/assets/project1.jpg?raw=true" alt="Osculant Origins Newsletter Email" width="100%" height="100%" />
 					</a>
 					<br>
 					<br>
