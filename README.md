@@ -50,13 +50,13 @@
 						<a href="https://github.com/RenPen3/Athleta-Promotional" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://athleta-promo.netlify.app/" target="_blank">
+						<a href="https://osculant-origins.netlify.app/" target="_blank">
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
 					</p>
-					<p><strong>HTML, Inline CSS</strong></p>
+					<p><strong>MJML</strong></p>
           <p>
-						This is a Newsletter Email
+						I designed and developed the Osculant Origins newsletter template to combine elegance with functionality. Its sleek layout, striking visuals, and intuitive call-to-actions are crafted to ensure your messages not only grab attention but also drive engagement with your audience effectively.
 					</p>
 				</div>
 			</td>
