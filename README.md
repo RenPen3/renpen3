@@ -64,20 +64,20 @@
 				<h3 align="center">Sail Eternity Promotional Email</h3>
 				<div align="center" >  
 					<a href='https://sail-eternity.netlify.app/' target="_blank">
-						<img src="https://github.com/RenPen3/renpen3/blob/main/assets/project2.jpg?raw=true" alt="Curvee Brows Newsletter Email" height="100%" />
+						<img src="https://github.com/RenPen3/renpen3/blob/main/sail_img.jpg?raw=true" alt="Sail Eternity Promotional Email" width="100%" height="100%" />
 					</a>
 					<br>
 					<br>
 					<p>
-						<a href="https://github.com/RenPen3/Curvee-Brows-Newsletter" target="_blank">
+						<a href="#" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://curveebrows-newsletter.netlify.app/" target="_blank">
+						<a href="https://sail-eternity.netlify.app/" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
 					</p>
-					 <p><strong>HTML, Inline CSS</strong></p>
-					<p>This is a Promotional Email</p>
+					 <p>Tools used: <strong>MJML</strong></p>
+					<p>I developed the Sail Eternity promotional email template to deliver a sleek, captivating experience that perfectly reflects the brand’s essence. With its elegant design, compelling visuals, and strategic call-to-actions, this template is crafted to engage your audience and drive conversions seamlessly.</p>
 				</div>
         </tr>
 	    <tr>
