@@ -39,9 +39,9 @@
 	<table>
 		<tr>
 			<td width="50%">
-				<h3 align="center">Athleta Promotional Email</h3>
+				<h3 align="center">Osculant Origins Newsletter Email</h3>
 				<div align="center">  
-					<a href='https://athleta-promo.netlify.app/' target="_blank">
+					<a href='https://osculant-origins.netlify.app/' target="_blank">
 						<img src="https://github.com/RenPen3/renpen3/blob/main/assets/project1.jpg?raw=true" alt="Athleta Promotional Email" height="100%" />
 					</a>
 					<br>
@@ -56,14 +56,14 @@
 					</p>
 					<p><strong>HTML, Inline CSS</strong></p>
           <p>
-						This is a Promotional Email
+						This is a Newsletter Email
 					</p>
 				</div>
 			</td>
 			<td width="50%">
-				<h3 align="center">Curvee Brows Newsletter Email</h3>
+				<h3 align="center">Sail Eternity Promotional Email</h3>
 				<div align="center" >  
-					<a href='https://curveebrows-newsletter.netlify.app/' target="_blank">
+					<a href='https://sail-eternity.netlify.app/' target="_blank">
 						<img src="https://github.com/RenPen3/renpen3/blob/main/assets/project2.jpg?raw=true" alt="Curvee Brows Newsletter Email" height="100%" />
 					</a>
 					<br>
@@ -77,7 +77,7 @@
 						</a>	
 					</p>
 					 <p><strong>HTML, Inline CSS</strong></p>
-					<p>This is a Newsletter Email</p>
+					<p>This is a Promotional Email</p>
 				</div>
         </tr>
 	    <tr>
