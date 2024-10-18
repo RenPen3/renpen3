@@ -76,7 +76,7 @@
 					</p>
 					 <p>Tools used: <strong>MJML</strong></p>
 					<p align="left">I developed the Sail Eternity promotional email template to deliver a sleek, captivating experience that perfectly reflects the brand’s essence. With its elegant design, compelling visuals, and strategic call-to-actions, this template is crafted to engage your audience and drive conversions seamlessly.</p>
-				</div>
+<!-- 				</div>
         </tr>
 	    <tr>
             <td width="50%">
@@ -108,9 +108,9 @@
                     <br>
                     <br>
                     <p>
-<!--                         <a href="https://rp629.wordpress.com/" target="_blank">
+                        <a href="https://rp629.wordpress.com/" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>   -->
+						</a>  
 						<a href="https://rp629.wordpress.com/" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
@@ -121,7 +121,7 @@
             </td>
         </tr>
 	</table>
-</div>
+</div> -->
 <br />
 <br />
 <hr>
