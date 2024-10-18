@@ -133,7 +133,7 @@
 
 <h2 align="left">Contact Me</h2>
 <p align="center">
-	&nbsp&nbsp&nbsp
+	&nbsp;&nbsp;&nbsp;
 	<a href="https://twitter.com/ReneDPerez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codingphase" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/renedperez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codingphase" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/renedperez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codingphase" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
@@ -144,7 +144,7 @@
 
 
 <!-- STATS -->
-<div align="left" margin="100px 0 0 0">
+<div align="center" margin="100px 0 0 0">
 
 <h2 align="left">Stats</h2>
 <h6 style="color:red">These stats are only for public repos it don't show private stats on projects for previous employers and clients.</h6>
