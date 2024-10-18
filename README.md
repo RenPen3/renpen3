@@ -55,9 +55,7 @@
 						</a>
 					</p>
 					<p>Tools used: <strong>MJML</strong></p>
-          <p>
-						I designed and developed the Osculant Origins newsletter template to combine elegance with functionality. Its sleek layout, striking visuals, and intuitive call-to-actions are crafted to ensure your messages not only grab attention but also drive engagement with your audience effectively.
-					</p>
+          <p align="left">I designed and developed the Osculant Origins newsletter template to combine elegance with functionality. Its sleek layout, striking visuals, and intuitive call-to-actions are crafted to ensure your messages not only grab attention but also drive engagement with your audience effectively.</p>
 				</div>
 			</td>
 			<td width="50%">
@@ -77,7 +75,7 @@
 						</a>	
 					</p>
 					 <p>Tools used: <strong>MJML</strong></p>
-					<p>I developed the Sail Eternity promotional email template to deliver a sleek, captivating experience that perfectly reflects the brand’s essence. With its elegant design, compelling visuals, and strategic call-to-actions, this template is crafted to engage your audience and drive conversions seamlessly.</p>
+					<p align="left">I developed the Sail Eternity promotional email template to deliver a sleek, captivating experience that perfectly reflects the brand’s essence. With its elegant design, compelling visuals, and strategic call-to-actions, this template is crafted to engage your audience and drive conversions seamlessly.</p>
 				</div>
         </tr>
 	    <tr>
@@ -98,7 +96,7 @@
 						</a>
                     </p>
                     <p><strong>HTML, CSS</strong></p>
-		    <p>This is an MPLAY Landing Page</p>
+		    <p align="left">This is an MPLAY Landing Page</p>
                 </div>
             </td>
             <td width="50%">
@@ -118,7 +116,7 @@
 						</a>	
                     </p>
                     <p><strong>WordPress</strong></p>
-		    <p>This is a WordPress website</p>
+		    <p align="left">This is a WordPress website</p>
                 </div>	
             </td>
         </tr>
@@ -146,7 +144,7 @@
 <!-- STATS -->
 <div align="center" margin="100px 0 0 0">
 
-<h2 align="left">Stats</h2>
+<h2 align="center">Stats</h2>
 <h6 style="color:red">These stats are only for public repos it don't show private stats on projects for previous employers and clients.</h6>
 
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RenPen3&show_icons=true&locale=en&layout=compact" alt="RenPen3" /></p>
