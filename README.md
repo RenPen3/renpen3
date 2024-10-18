@@ -76,14 +76,14 @@
 					</p>
 					 <p>Tools used: <strong>MJML</strong></p>
 					<p align="left">I developed the Sail Eternity promotional email template to deliver a sleek, captivating experience that perfectly reflects the brand’s essence. With its elegant design, compelling visuals, and strategic call-to-actions, this template is crafted to engage your audience and drive conversions seamlessly.</p>
-<!-- 				</div>
+</div>
         </tr>
 	    <tr>
             <td width="50%">
-                <h3 align="center">Mplay Landing Page</h3>
+                <h3 align="center">Title</h3>
                 <div align="center" >  
                     <a href='https://mplay-landing-page.netlify.app/' target="_blank">
-                        <img src="https://github.com/RenPen3/renpen3/blob/main/assets/project3.jpg?raw=true" alt="Mplay Landing Page" height="100%" />
+                        <img src="[https://github.com/RenPen3/renpen3/blob/main/assets/project3.jpg?raw=true](https://placehold.co/600x400)" alt="Mplay Landing Page" height="100%" />
                     </a>
                     <br>
                     <br>
@@ -121,7 +121,7 @@
             </td>
         </tr>
 	</table>
-</div> -->
+</div>
 <br />
 <br />
 <hr>
