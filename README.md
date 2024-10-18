@@ -1,8 +1,8 @@
 <div id="" align="center">
 <!--   <img src="https://github.com/RenPen3/renpen3/blob/main/assets/Banner-7.jpg?raw=true" width="100%"/> -->
 </div>
-<h1 align="left">Hello!, I'm Rene D Perez &#128526</h1>
-<h3 align="left">An Email Developer/ Web Developer based in Los Angeles, CA</h3>
+<h1 align="center">Hello!, I'm Rene D Perez &#128526</h1>
+<h3 align="center">An Email Developer/ Web Developer based in Los Angeles, CA</h3>
 <h4 align="left">I'm an experienced email developer/ web developer with a strong background in creating responsive HTML table emails and websites from scratch. I'm skilled in various design tools such as Adobe Illustrator, and Figma as well as platforms like WordPress, Bootstrap, Sass, Google Analytics, GitHub, Git, and ConvertKit. In addition to my experience, I am also passionate about art, music, travel, fitness, learning diverse cultures, and exploring new places. </h4>
 
 <hr>
@@ -10,7 +10,7 @@
 
 <!-- TECHS -->
 
-<h2 align="left">Skills</h2>
+<h2 align="center">Skills</h2>
 
 <div align="center">
                 <br>
@@ -34,7 +34,7 @@
 
 <!-- PROJECTS -->
 
-<h2 align="left">My Awesome Projects</h2>
+<h2 align="center">My Awesome Projects</h2>
 <div align="left">
 	<table>
 		<tr>
@@ -131,7 +131,7 @@
 
 <!-- SOCIALS -->
 
-<h2 align="left">Contact Me</h2>
+<h2 align="center">Contact Me</h2>
 <p align="center">
 	&nbsp;&nbsp;&nbsp;
 	<a href="https://twitter.com/ReneDPerez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codingphase" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
