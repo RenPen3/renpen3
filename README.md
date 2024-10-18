@@ -78,7 +78,7 @@
 					<p align="left">I developed the Sail Eternity promotional email template to deliver a sleek, captivating experience that perfectly reflects the brand’s essence. With its elegant design, compelling visuals, and strategic call-to-actions, this template is crafted to engage your audience and drive conversions seamlessly.</p>
 </div>
         </tr>
-	    <tr>
+<!-- 	    <tr>
             <td width="50%">
                 <h3 align="center">Title</h3>
                 <div align="center" >  
@@ -119,7 +119,7 @@
 		    <p align="left">This is a WordPress website</p>
                 </div>	
             </td>
-        </tr>
+        </tr> -->
 	</table>
 </div>
 <br />
