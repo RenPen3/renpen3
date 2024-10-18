@@ -134,7 +134,7 @@
 	&nbsp;&nbsp;&nbsp;
 <!-- 	<a href="https://twitter.com/ReneDPerez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codingphase" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp; -->
 <a href="https://www.linkedin.com/in/renedperez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codingphase" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/renedperez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codingphase" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
+<!-- <a href="https://www.instagram.com/renedperez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codingphase" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp; -->
 <!-- <a href="https://www.facebook.com/profile.php?id=100090260983579" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/facebook/facebook-plain.svg" alt="codingphase" height="30" width="40" /></a> -->
 </p>
 
